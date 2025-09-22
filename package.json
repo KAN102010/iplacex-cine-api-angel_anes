@@ -1,0 +1,16 @@
+{
+  "name": "iplacex-cine-api-angel_anes",
+  "version": "1.0.0",
+  "description": "API REST Express para administración de películas favoritas de empleados de IPLACEX",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.0",
+    "cors": "^2.8.5",
+    "morgan": "^1.10.0"
+  }
+}
